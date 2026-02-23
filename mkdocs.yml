@@ -1,0 +1,51 @@
+site_name: LextEdit Documentation
+site_description: Official documentation for LextEdit — the development IDE for MOCA/SQL database systems.
+site_author: Orbital Services
+site_url: ""
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Overview: getting-started/index.md
+    - Installation: getting-started/installation.md
+    - First Connection: getting-started/first-connection.md
+    - First Query: getting-started/first-query.md
+    - MOCA Commands: getting-started/moca-commands.md
+  - User Guide:
+    - Overview: user-guide/index.md
+    - The Editor: user-guide/the-editor.md
+    - Connections: user-guide/connections.md
+    - Querying Data: user-guide/querying-data.md
+    - Trace Profiler: user-guide/trace-profiler.md
+    - File Differentiation: user-guide/file-differentiation.md
+    - Command History: user-guide/command-history.md
+    - Exporting Data: user-guide/exporting-data.md
+    - Auto Execution: user-guide/auto-execution.md
+    - Custom Commands: user-guide/custom-commands.md
+  - Reference:
+    - Overview: reference/index.md
+    - Menus: reference/menus.md
+    - Keyboard Shortcuts: reference/keyboard-shortcuts.md
+    - Command-Line Arguments: reference/command-line-arguments.md
+    - Component Lookup: reference/component-lookup.md
+    - Explain Plan: reference/explain-plan.md
+    - Format for C: reference/format-for-c.md
+    - Regular Expressions: reference/regular-expressions.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight
