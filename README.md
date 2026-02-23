@@ -1,2 +1,2 @@
-# lextedit.github.io
+# lextedit-documentation
 Lext Edit Documentation
