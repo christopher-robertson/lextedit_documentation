@@ -3,12 +3,16 @@ site_description: Official documentation for LextEdit — the development IDE fo
 site_author: Orbital Services
 site_url: ""
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
+  favicon: assets/images/favicon.svg
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: custom
+    accent: custom
   features:
     - navigation.tabs
     - navigation.sections
