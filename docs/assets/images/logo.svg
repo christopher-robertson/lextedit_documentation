@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <!-- Blue tile gradient similar to the icon -->
+    <linearGradient id="lextBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6CC7FF"/>
+      <stop offset="0.55" stop-color="#2B74FF"/>
+      <stop offset="1" stop-color="#0B3FBF"/>
+    </linearGradient>
+
+    <!-- Subtle glossy highlight -->
+    <linearGradient id="lextGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer rounded square -->
+  <rect x="2.25" y="2.25" width="19.5" height="19.5" rx="2.2" fill="url(#lextBlue)"/>
+
+  <!-- Thin darker edge to mimic app-icon border -->
+  <rect x="2.25" y="2.25" width="19.5" height="19.5" rx="2.2" fill="none" stroke="#0A2F7A" stroke-opacity="0.55" stroke-width="0.8"/>
+
+  <!-- Top-left highlight swoosh -->
+  <path
+    d="M4.2 4.6
+       C7.8 3.2, 12.6 3.0, 16.8 4.1
+       C14.7 4.3, 12.4 5.0, 10.6 6.2
+       C8.3 7.7, 6.5 9.9, 5.7 12.2
+       C4.7 9.8, 3.9 7.0, 4.2 4.6 Z"
+    fill="url(#lextGloss)"
+  />
+
+  <!-- The "E" -->
+  <text
+    x="12"
+    y="16"
+    text-anchor="middle"
+    font-size="14"
+    font-weight="700"
+    font-style="italic"
+    font-family="Georgia, 'Times New Roman', serif"
+    fill="#FFFFFF"
+  >
+    E
+  </text>
+</svg>

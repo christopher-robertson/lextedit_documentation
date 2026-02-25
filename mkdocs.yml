@@ -9,6 +9,7 @@ extra_css:
 theme:
   name: material
   favicon: assets/images/favicon.svg
+  logo: assets/images/logo.svg
   palette:
     scheme: default
     primary: custom
@@ -48,7 +49,12 @@ nav:
     - Format for C: reference/format-for-c.md
     - Regular Expressions: reference/regular-expressions.md
 
+plugins:
+  - search
+  - glightbox
+
 markdown_extensions:
+  - attr_list
   - tables
   - admonition
   - pymdownx.superfences

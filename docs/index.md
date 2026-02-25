@@ -2,7 +2,7 @@
 
 **LextEdit** is a development tool for database systems built by [Orbital Services](http://www.orbitalservices.com). It combines a powerful file editor, a semantic parser for over 20 programming languages, and the ability to execute SQL and MOCA commands — displaying results in a usable data grid.
 
-![Screenshot of SELECT sysdate FROM dual](img/lextedit_overview.png)
+![Screenshot of SELECT sysdate FROM dual](img/lextedit_overview.png){ width="700" }
 
 
 ## What LextEdit Does
