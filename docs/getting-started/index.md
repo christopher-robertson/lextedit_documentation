@@ -1,6 +1,6 @@
 # Getting Started
 
-This section guides you through installing LextEdit and getting up and running quickly.
+This section guides you through installing LextEdit and getting up and running quickly. By the end of this section, you will have LextEdit installed, a connection configured, and a working understanding of how to write and execute your first query.
 
 ## In This Section
 

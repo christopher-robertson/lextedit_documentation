@@ -18,7 +18,7 @@
 | `Ctrl+Alt+F` | Format the current editor content |
 | `Ctrl+H` | Open the History Navigation window |
 | `Ctrl+L` | Open the Component Lookup window |
-| `Ctrl+E` | Open an Explain Plan on selected text |
+| `Ctrl+E` | Open an Explain Query on selected text |
 | `Ctrl+T` | Open the Trace Profiler |
 | `F9` | Start a MOCA trace (default profile name) |
 | `Ctrl+F9` | Start a MOCA trace (prompt for profile name) |
@@ -51,4 +51,4 @@
 | `F8` | Open the Connection Information window |
 | `Ctrl+S` | Save the current trace file locally |
 | `F10` | Open a LextEdit window |
-| `Ctrl+E` | Open a blank Explain Plan window |
+| `Ctrl+E` | Open a blank Explain Query window |

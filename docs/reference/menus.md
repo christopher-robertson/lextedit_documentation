@@ -6,6 +6,8 @@ Complete reference for all LextEdit menu items.
 
 ## File
 
+![File menu](img/menu_file.png){ width="400" }
+
 | Item | Shortcut | Description |
 |---|---|---|
 | New | | Opens a new editor tab |
@@ -35,6 +37,8 @@ Complete reference for all LextEdit menu items.
 
 ## Edit
 
+![Edit menu](img/menu_edit.png){ width="400" }
+
 | Item | Shortcut | Description |
 |---|---|---|
 | Undo | | Undoes the last action |
@@ -62,6 +66,8 @@ Complete reference for all LextEdit menu items.
 
 ## Search
 
+![Search menu](img/menu_search.png){ width="400" }
+
 | Item | Shortcut | Description |
 |---|---|---|
 | Find/Replace... | `Ctrl+F` | Opens the Find and Replace window |
@@ -72,6 +78,8 @@ Complete reference for all LextEdit menu items.
 ---
 
 ## Tools
+
+![Tools menu](img/menu_tools.png){ width="400" }
 
 | Item | Shortcut | Description |
 |---|---|---|
@@ -92,11 +100,13 @@ Complete reference for all LextEdit menu items.
 
 ## View
 
+![View menu](img/menu_view.png){ width="400" }
+
 | Item | Shortcut | Description |
 |---|---|---|
 | History Info | `Ctrl+H` | Opens the Command History window |
 | Component Lookup | `Ctrl+L` | Opens the Component Lookup window |
-| Explain Query | `Ctrl+E` | Opens the Explain Plan window |
+| Explain Query | `Ctrl+E` | Opens the Explain Query window |
 | Open Trace Profiler | `Ctrl+T` | Opens the Trace Profiler |
 | Start Trace | `F9` | Starts a MOCA trace using the login name as profile |
 | Start Trace (Prompt) | `Ctrl+F9` | Starts a MOCA trace with a custom profile name |
@@ -107,6 +117,8 @@ Complete reference for all LextEdit menu items.
 ---
 
 ## Help
+
+![Help menu](img/menu_help.png){ width="400" }
 
 | Item | Description |
 |---|---|

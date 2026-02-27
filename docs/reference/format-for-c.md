@@ -1,11 +1,11 @@
 # Format for C
 
-**Format Selection for C (MSQL Only)** is a productivity tool that converts a selected block of MOCA/MSQL code into a C-compatible `sprintf` string.
+**Format Selection for C (MSQL Only)** is a productivity tool that converts a selected block of MOCA/MSQL code into a C-compatible `sprintf` string. It is intended for developers who embed MOCA queries in C code and want to avoid the error-prone process of manually constructing C string literals from MOCA commands.
 
 ## Accessing the Feature
 
 1. Select the MOCA/MSQL code you want to convert in the editor.
-2. Go to **Edit → Format Selection for C (MSQL Only)**.
+2. Go to **Edit &rarr; Format Selection for C (MSQL Only)**.
 
 ## What It Does
 
@@ -32,4 +32,4 @@ sprintf(query, "select * from orders where ordnum = '%s' and wh_id = '%s'",
     ordnum, wh_id);
 ```
 
-This eliminates the need to manually construct the C string and reduces transcription errors when embedding MOCA queries in C code.
+This eliminates the need to manually construct the C string and reduces transcription errors when embedding MOCA queries in C code. For queries with many arguments or complex multi-line structures, the time savings and reduction in manual errors are significant.

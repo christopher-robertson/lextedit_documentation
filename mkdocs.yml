@@ -1,5 +1,5 @@
 site_name: LextEdit Documentation
-site_description: Official documentation for LextEdit — the development IDE for MOCA/SQL database systems.
+site_description: Official documentation for LextEdit, the development IDE for MOCA/SQL database systems.
 site_author: Orbital Services
 site_url: ""
 
@@ -45,7 +45,7 @@ nav:
     - Keyboard Shortcuts: reference/keyboard-shortcuts.md
     - Command-Line Arguments: reference/command-line-arguments.md
     - Component Lookup: reference/component-lookup.md
-    - Explain Plan: reference/explain-plan.md
+    - Explain Query: reference/explain-plan.md
     - Format for C: reference/format-for-c.md
     - Regular Expressions: reference/regular-expressions.md
 
