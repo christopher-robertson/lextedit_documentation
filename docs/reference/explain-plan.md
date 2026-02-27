@@ -13,7 +13,7 @@ The **Explain Query** tool analyzes SQL queries to help identify performance iss
 
 ## Interface
 
-![Screenshot of the Explain Query window](img/explain_query.png){ width="700" }
+![Screenshot of the Explain Query window](../img/explain_query.png){ width="700" }
 
 The Explain Query window contains three areas:
 

@@ -47,7 +47,7 @@ Use the find toolbar inside the TraceProfiler to search both the profile (tree) 
 
 Press **Ctrl+S** inside the Trace Profiler to save the currently loaded trace as a local file. LextEdit automatically compresses the file on save. Saved traces can be reopened at any time with **Ctrl+L**.
 
-![Screenshot showing the Save Locally option in the Trace Profiler menu](img/trace_profiler_save_locally.png){ width="700" }
+![Screenshot showing the Save Locally option in the Trace Profiler menu](../img/trace_profiler_save_locally.png){ width="700" }
 
 Press **F5** to reopen the current trace file name. This refreshes the view if the file has been updated since it was last opened, which is useful when monitoring an ongoing trace.
 
