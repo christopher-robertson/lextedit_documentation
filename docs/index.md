@@ -25,6 +25,8 @@ LextEdit is designed by developers who use it daily. Features are driven by real
 | [User Guide](user-guide/index.md) | In-depth coverage of every major feature |
 | [Reference](reference/index.md) | Menus, keyboard shortcuts, command-line arguments, and more |
 
+![File menu](img/menu_file.png){ width="400" }
+
 ## About
 
 LextEdit is developed and maintained by [Orbital Services](http://www.orbitalservices.com).

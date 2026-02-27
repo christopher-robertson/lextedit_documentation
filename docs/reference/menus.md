@@ -6,7 +6,6 @@ Complete reference for all LextEdit menu items.
 
 ## File
 
-![File menu](img/menu_file.png){ width="400" }
 
 | Item | Shortcut | Description |
 |---|---|---|
