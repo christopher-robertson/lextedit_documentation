@@ -6,6 +6,7 @@ Complete reference for all LextEdit menu items.
 
 ## File
 
+![File menu](img/menu_file.png){ width="200" }
 
 | Item | Shortcut | Description |
 |---|---|---|
@@ -36,7 +37,7 @@ Complete reference for all LextEdit menu items.
 
 ## Edit
 
-![Edit menu](img/menu_edit.png){ width="400" }
+![Edit menu](img/menu_edit.png){ width="200" }
 
 | Item | Shortcut | Description |
 |---|---|---|
@@ -65,7 +66,7 @@ Complete reference for all LextEdit menu items.
 
 ## Search
 
-![Search menu](img/menu_search.png){ width="400" }
+![Search menu](img/menu_search.png){ width="200" }
 
 | Item | Shortcut | Description |
 |---|---|---|
@@ -76,9 +77,20 @@ Complete reference for all LextEdit menu items.
 
 ---
 
+## Custom Commands
+
+![Custom Commands menu](img/menu_customcommads.png){ width="200" }
+
+| Item | Description |
+|---|---|
+| Table Research | Search schema information |
+| List Code Descriptions | Find long description of abbreviated codes and descriptions |
+
+---
+
 ## Tools
 
-![Tools menu](img/menu_tools.png){ width="400" }
+![Tools menu](img/menu_tools.png){ width="200" }
 
 | Item | Shortcut | Description |
 |---|---|---|
@@ -99,7 +111,7 @@ Complete reference for all LextEdit menu items.
 
 ## View
 
-![View menu](img/menu_view.png){ width="400" }
+![View menu](img/menu_view.png){ width="200" }
 
 | Item | Shortcut | Description |
 |---|---|---|
@@ -117,7 +129,7 @@ Complete reference for all LextEdit menu items.
 
 ## Help
 
-![Help menu](img/menu_help.png){ width="400" }
+![Help menu](img/menu_help.png){ width="200" }
 
 | Item | Description |
 |---|---|

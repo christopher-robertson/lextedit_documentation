@@ -4,7 +4,7 @@
 
 LextEdit is built by developers who use it daily on real warehouse management and logistics systems. Every feature reflects actual development workflow needs, making it a practical and dependable tool for both experienced and new developers working in MOCA/SQL environments.
 
-![Screenshot of SELECT sysdate FROM dual](img/lextedit_overview.png){ width="700" }
+![Screenshot of SELECT sysdate FROM dual](img/lextedit_overview.png){ width="550" }
 
 
 ## What LextEdit Does
@@ -24,8 +24,6 @@ LextEdit is designed by developers who use it daily. Features are driven by real
 | [Getting Started](getting-started/index.md) | Install LextEdit, set up your first connection, and run your first query |
 | [User Guide](user-guide/index.md) | In-depth coverage of every major feature |
 | [Reference](reference/index.md) | Menus, keyboard shortcuts, command-line arguments, and more |
-
-![File menu](img/menu_file.png){ width="400" }
 
 ## About
 
