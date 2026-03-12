@@ -30,7 +30,7 @@ You can sort the grid by clicking a column header, and resize columns by draggin
 
 - Press **F5** to export the grid results to a Microsoft Excel spreadsheet.
 - Press **F6** to quickly save the results in a LextEdit-based file format for later reloading.
-- Right-click in the grid for additional copy options, including WHERE clause generation and INSERT statement generation. These options are especially useful for constructing follow-up queries from the returned data.
+- Right-click in the grid for [additional copy options](../user-guide/exporting-data.md#copy-from-the-grid), including WHERE clause generation and INSERT statement generation. These options are especially useful for constructing follow-up queries from the returned data.
 
 ## Next Steps
 

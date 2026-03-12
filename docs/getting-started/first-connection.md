@@ -9,6 +9,8 @@ LextEdit supports two types of connections:
 
 Press **F8** or go to **File &rarr; Connect** to open the Connection Information window.
 
+![connection button](img/connect.png){ width="100" }
+
 ## MOCA / MSQL Connection
 
 1. In the Connection Information window, select the **Moca Servers** tab.
@@ -45,3 +47,5 @@ See [Connections](../user-guide/connections.md) in the User Guide for full detai
 ## Disconnecting
 
 Go to **File &rarr; Disconnect** to close the active connection. LextEdit will continue to function as a file editor after disconnecting.
+
+![disconnect button](img/disconnect.png){ width="100" }

@@ -76,10 +76,22 @@ Use **Tools &rarr; Import Editor Data** to import data from the editor directly 
 Use **Tools &rarr; Execute with Local File** to run a command against every row in a local CSV file:
 
 1. Prepare a CSV file with the required field headers and data rows.
+
+![Screenshot showing Excel CSV file with sample data](img/execute_with_local_1.png){ width="250" }
+
+Or
+
+![Screenshot showing plain text CSV file with sample data](img/execute_with_local_2.png){ width="250" }
+
 2. Paste the command you want to run into the editor.
 3. Select **Tools &rarr; Execute with Local File**.
 4. Locate and open your CSV file.
+
+![Screenshot showing Excel CSV file with sample data](img/execute_with_local_3.png){ width="250" }
+
 5. LextEdit shows a preview of the parsed data. Confirm to proceed.
 6. LextEdit executes the command for all rows in a single pass.
+
+![Screenshot showing Excel CSV file with sample data](img/execute_with_local_4.png){ width="250" }
 
 This feature is useful for bulk updates or inserts driven by data prepared outside of LextEdit.
