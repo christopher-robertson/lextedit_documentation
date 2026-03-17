@@ -6,6 +6,26 @@ LextEdit includes **SyntaxDiff**, a file comparison tool for quickly identifying
 
 SyntaxDiff can be triggered from the main LextEdit window to compare between executions or revisions of a file.
 
+From a new Lext Edit instance, navigate to File --> Open in the menu. Select the target file...
+
+![Screenshot showing menu File --> Open](img/syntaxdiff_openfile.png){ width="200" }
+
+Click the small Diff Text button on the right side of the window to launch Syntax Diff.
+
+![Screenshot showing Diff Tool from Lext Edit window](img/syntaxdiff_open_diff_tool.png){ width="350" }
+
+From Syntax Diff, use the File menu for three different Open File options.
+
+![Screenshot showing menu File --> Open Right](img/syntaxdiff_openright.png){ width="250" }
+
+The selected files should now be displayed with Syntax Diff features.
+
+![Screenshot showing two files being compared with Syntax Diff tool](img/syntaxdiff_compare.png){ width="700" }
+
+Alternatively, Syntax Diff can be launched from the Windows start menu as its own application instance.
+
+![Screenshot showing Windows Search result for Syntax Diff Application](img/syntaxdiff_windows_search.png){ width="250" }
+
 ## Display Modes
 
 ### Side-by-Side (Left-to-Right)
@@ -15,6 +35,8 @@ Both files are displayed in parallel columns with a separator control in the mid
 ### Top-and-Bottom (Left-above-Right)
 
 One file is shown above the other. Useful when working with long lines that are difficult to compare side by side. In this mode, the vertical layout gives each file more horizontal space so that long lines can be read without truncation.
+
+![Screenshot showing Top Bottom Syntax Diff](img/syntaxdiff_topbottom.png){ width="600" }
 
 ## Navigation
 
