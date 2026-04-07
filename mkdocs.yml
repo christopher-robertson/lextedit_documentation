@@ -15,7 +15,7 @@ theme:
     primary: custom
     accent: custom
   features:
-    - navigation.tabs
+#    - navigation.tabs
     - navigation.sections
     - navigation.top
     - search.highlight

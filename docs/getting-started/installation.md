@@ -24,6 +24,8 @@ The installer places all LextEdit files in a single directory (typically `C:\Pro
 
 When LextEdit opens for the first time, the main editor window appears. No connection is active yet. You can open and edit files immediately, or proceed to [set up a connection](first-connection.md) to execute commands against a database system.
 
+![Screenshot showing LextEdit window](img/installation_first_launch.png){ width="400" }
+
 LextEdit does not require a database connection to be useful as a file editor. All syntax colorization and file operations are available offline.
 
 ## Updates
